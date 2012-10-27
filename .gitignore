@@ -1,0 +1,7 @@
+.#*
+*~
+\#*
+*.sw[p|o]
+.DS_Store
+__MACOSX
+node_modules

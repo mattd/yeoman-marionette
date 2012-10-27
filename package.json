@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Matt Dawson"
+  },
+  "name": "yeoman-marionette",
+  "description": "Yeoman generator for creating backbone apps using Marionette, handlesbars and requirejs",
+  "keywords": [
+    "front-end",
+    "development",
+    "scaffold",
+    "marionette",
+    "backbone",
+    "generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattd/yeoman-marionette.git"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "yeoman": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "homepage": "http://www.github.com/mattd/yeoman-marionette/",
+  "bugs": {
+    "name": "https://github.com/mattd/yeoman-marionette/issues/"
+  }
+}
